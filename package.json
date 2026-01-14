@@ -1,0 +1,12 @@
+{
+  "name": "cloud-paas-node-todo",
+  "version": "1.0.0",
+  "description": "Dynamische PaaS Web-App mit Node.js (ohne Template Engine)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
