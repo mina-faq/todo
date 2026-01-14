@@ -14,7 +14,7 @@ function renderPage() {
   <title>Cloud PaaS ToDo App</title>
 </head>
 <body>
-  <h1>ToDo-Liste (Node.js PaaS)</h1>
+  <h1>ToDo-Liste</h1>
 
   <form method="POST" action="/add">
     <input type="text" name="todo" placeholder="Neue Aufgabe" required>
